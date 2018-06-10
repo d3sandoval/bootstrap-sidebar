@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-sidebar",
+  "version": "0.2.2",
+  "description": "a sidebar plugin for bootstrap 3",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3sandoval/bootstrap-sidebar.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "sidebar",
+    "plugin"
+  ],
+  "author": "Asyraf <asyraf9@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3sandoval/bootstrap-sidebar/issues"
+  },
+  "homepage": "https://github.com/d3sandoval/bootstrap-sidebar#readme"
+}
